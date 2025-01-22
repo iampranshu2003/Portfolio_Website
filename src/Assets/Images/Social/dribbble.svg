@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="53px" viewBox="0 0 61 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Medium</title>
+    <desc>Created with SVG</desc>
+    <g id="Layer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-272.000000, -2857.000000)" fill="#000000">
+            <g id="Medium" transform="translate(144.000000, 238.000000)">
+                <!-- Left Circle -->
+                <circle id="LeftCircle" cx="178" cy="29" r="10"></circle>
+                <!-- Middle Circle -->
+                <circle id="MiddleCircle" cx="193" cy="29" r="15"></circle>
+                <!-- Right Circle -->
+                <circle id="RightCircle" cx="213" cy="29" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
